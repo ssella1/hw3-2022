@@ -5,6 +5,7 @@ body {
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 0px;
 }
 h1 {
   text-align: center;
@@ -22,10 +23,8 @@ p {
 }
 img {
     width: 250px;
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    display: block;
+    margin: 0 auto;
     border-style: dashed;
     border-width: 10px;
     border-color: #FFFFFF;
@@ -92,4 +91,5 @@ footer p {
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
+    padding-left: 0;
 }
